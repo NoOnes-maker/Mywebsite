@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>This is my other site</title>
+</head>
+
+<body>
+    <h1>Hello welcome to this website</h1>
+    <p>My name is jardz and i want you to try my website, and i want your honest feedback.HEHE so that i can learn what is it i am lacking</p>
+    <br>
+<p>I am currenly working on my music,and lyrics type of website, with working hyperlinks that you can click, and interact with.
+    Thats all i hope you like what i have here HEHE, this is just a basic html project HAHAHA, but im proud of what i created :).
+</p>
+    <br>
+    <p>If you wish to stay here its fine but, i highly suggest you check out my other website,it's cool there.</p>
+    <a href="SongLyrics.php" target="_blank" title="this will take u to my website, have fun!! :)" >
+        click me DADDY!!
+    </a>
+</body>
+
+</html>
